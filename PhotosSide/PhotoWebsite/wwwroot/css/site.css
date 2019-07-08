@@ -72,12 +72,21 @@ body {
 #photo-detail{
     display:flex;
 }
-#photo-detail img{
+/*#photo-detail img{
+    align-self: flex-start;
+    width: 50%;
+    object-fit: cover;
+    margin-right: 20px;
+}*/
+#photo-image {
     align-self: flex-start;
     width: 50%;
     object-fit: cover;
     margin-right: 20px;
 }
-#photo-detail .photo-description{
-    flex: 1;
+#advert-image {
+    align-self: flex-end;
+    width: 20%;
+    object-fit: cover;
+    margin-top: 10px;
 }
