@@ -12939,11 +12939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BGalinas\\Desktop\\Side Projects\\PhotosSide\\PhotoWebsite\\PhotoWebsite.csproj",
+      "projectUniqueName": "C:\\Users\\BGalinas\\GitRepos\\Galinas-Side-Projects\\PhotosSide\\PhotoWebsite\\PhotoWebsite.csproj",
       "projectName": "PhotoWebsite",
-      "projectPath": "C:\\Users\\BGalinas\\Desktop\\Side Projects\\PhotosSide\\PhotoWebsite\\PhotoWebsite.csproj",
+      "projectPath": "C:\\Users\\BGalinas\\GitRepos\\Galinas-Side-Projects\\PhotosSide\\PhotoWebsite\\PhotoWebsite.csproj",
       "packagesPath": "C:\\Users\\BGalinas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BGalinas\\Desktop\\Side Projects\\PhotosSide\\PhotoWebsite\\obj\\",
+      "outputPath": "C:\\Users\\BGalinas\\GitRepos\\Galinas-Side-Projects\\PhotosSide\\PhotoWebsite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

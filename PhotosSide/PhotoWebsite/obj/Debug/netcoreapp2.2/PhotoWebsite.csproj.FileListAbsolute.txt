@@ -90,3 +90,34 @@ C:\Users\BGalinas\Desktop\Side Projects\PhotosSide\PhotoWebsite\obj\Debug\netcor
 C:\Users\BGalinas\Desktop\Side Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\PhotoWebsite.dll
 C:\Users\BGalinas\Desktop\Side Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\PhotoWebsite.pdb
 C:\Users\BGalinas\Desktop\Side Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\PhotoWebsite.csproj.CopyComplete
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\bin\Debug\netcoreapp2.2\PhotoWebsite.deps.json
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\bin\Debug\netcoreapp2.2\PhotoWebsite.runtimeconfig.json
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\bin\Debug\netcoreapp2.2\PhotoWebsite.runtimeconfig.dev.json
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\bin\Debug\netcoreapp2.2\PhotoWebsite.dll
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\bin\Debug\netcoreapp2.2\PhotoWebsite.pdb
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\bin\Debug\netcoreapp2.2\PhotoWebsite.Views.dll
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\bin\Debug\netcoreapp2.2\PhotoWebsite.Views.pdb
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\PhotoWebsite.csprojAssemblyReference.cache
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\PhotoWebsite.csproj.CoreCompileInputs.cache
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\PhotoWebsite.RazorAssemblyInfo.cache
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\PhotoWebsite.RazorAssemblyInfo.cs
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\PhotoWebsite.AssemblyInfoInputs.cache
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\PhotoWebsite.AssemblyInfo.cs
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\PhotoWebsite.TagHelpers.input.cache
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\PhotoWebsite.TagHelpers.output.cache
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\PhotoWebsite.RazorCoreGenerate.cache
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\PhotoWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\PhotoWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\PhotoWebsite.Views.pdb
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\PhotoWebsite.dll
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\PhotoWebsite.pdb
+C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\PhotosSide\PhotoWebsite\obj\Debug\netcoreapp2.2\PhotoWebsite.csproj.CopyComplete
