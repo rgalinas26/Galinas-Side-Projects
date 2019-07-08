@@ -18,7 +18,7 @@ namespace GalinasSideProject2._0.Classes
         public void Build()
         {
             deck = new Stack<Card>(60);
-            using (StreamReader sr = new StreamReader(@"C:\Users\BGalinas\Desktop\Side Projects\MTGSide\Modern Humans Decklist.txt"))
+            using (StreamReader sr = new StreamReader(@"C:\Users\BGalinas\GitRepos\Galinas-Side-Projects\MTGSide\Modern Humans Decklist.txt"))
             {
                 while (!sr.EndOfStream)
                 {
