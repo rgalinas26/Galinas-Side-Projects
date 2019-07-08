@@ -1,0 +1,23 @@
+﻿@model IList<Photo>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>Enjoy the Images</h2>
+
+
+<div id="card-page">
+    <div class="main-content">
+        <div id="grid">
+
+            @foreach (Photo photo in Model)
+            {
+                <div class="tile">
+                    <a class="photo-image" asp-controller="Home" asp-action="Details" asp-route-id="@photo.Id">
+                        <img src="~/images/@photo.ImageName" />
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+</div>

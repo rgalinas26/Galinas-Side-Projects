@@ -1,0 +1,44 @@
+C:\Users\BGalinas\source\repos\GalinasSideProject2.0\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.deps.json
+C:\Users\BGalinas\source\repos\GalinasSideProject2.0\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.runtimeconfig.json
+C:\Users\BGalinas\source\repos\GalinasSideProject2.0\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.runtimeconfig.dev.json
+C:\Users\BGalinas\source\repos\GalinasSideProject2.0\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.dll
+C:\Users\BGalinas\source\repos\GalinasSideProject2.0\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.pdb
+C:\Users\BGalinas\source\repos\GalinasSideProject2.0\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.csprojAssemblyReference.cache
+C:\Users\BGalinas\source\repos\GalinasSideProject2.0\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.csproj.CoreCompileInputs.cache
+C:\Users\BGalinas\source\repos\GalinasSideProject2.0\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.AssemblyInfoInputs.cache
+C:\Users\BGalinas\source\repos\GalinasSideProject2.0\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.AssemblyInfo.cs
+C:\Users\BGalinas\source\repos\GalinasSideProject2.0\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.dll
+C:\Users\BGalinas\source\repos\GalinasSideProject2.0\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.pdb
+C:\Users\BGalinas\Desktop\Side Project\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.deps.json
+C:\Users\BGalinas\Desktop\Side Project\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.runtimeconfig.json
+C:\Users\BGalinas\Desktop\Side Project\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.runtimeconfig.dev.json
+C:\Users\BGalinas\Desktop\Side Project\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.dll
+C:\Users\BGalinas\Desktop\Side Project\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.pdb
+C:\Users\BGalinas\Desktop\Side Project\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.csprojAssemblyReference.cache
+C:\Users\BGalinas\Desktop\Side Project\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.csproj.CoreCompileInputs.cache
+C:\Users\BGalinas\Desktop\Side Project\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.AssemblyInfoInputs.cache
+C:\Users\BGalinas\Desktop\Side Project\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.AssemblyInfo.cs
+C:\Users\BGalinas\Desktop\Side Project\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.dll
+C:\Users\BGalinas\Desktop\Side Project\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.pdb
+C:\Users\BGalinas\Desktop\Side Project\MTGSide\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.deps.json
+C:\Users\BGalinas\Desktop\Side Project\MTGSide\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.runtimeconfig.json
+C:\Users\BGalinas\Desktop\Side Project\MTGSide\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.runtimeconfig.dev.json
+C:\Users\BGalinas\Desktop\Side Project\MTGSide\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.dll
+C:\Users\BGalinas\Desktop\Side Project\MTGSide\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.pdb
+C:\Users\BGalinas\Desktop\Side Project\MTGSide\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.csprojAssemblyReference.cache
+C:\Users\BGalinas\Desktop\Side Project\MTGSide\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.csproj.CoreCompileInputs.cache
+C:\Users\BGalinas\Desktop\Side Project\MTGSide\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.AssemblyInfoInputs.cache
+C:\Users\BGalinas\Desktop\Side Project\MTGSide\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.AssemblyInfo.cs
+C:\Users\BGalinas\Desktop\Side Project\MTGSide\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.dll
+C:\Users\BGalinas\Desktop\Side Project\MTGSide\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.pdb
+C:\Users\BGalinas\Desktop\Side Projects\MTGSide\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.deps.json
+C:\Users\BGalinas\Desktop\Side Projects\MTGSide\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.runtimeconfig.json
+C:\Users\BGalinas\Desktop\Side Projects\MTGSide\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.runtimeconfig.dev.json
+C:\Users\BGalinas\Desktop\Side Projects\MTGSide\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.dll
+C:\Users\BGalinas\Desktop\Side Projects\MTGSide\GalinasSideProject2.0\bin\Debug\netcoreapp2.2\GalinasSideProject2.0.pdb
+C:\Users\BGalinas\Desktop\Side Projects\MTGSide\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.csprojAssemblyReference.cache
+C:\Users\BGalinas\Desktop\Side Projects\MTGSide\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.csproj.CoreCompileInputs.cache
+C:\Users\BGalinas\Desktop\Side Projects\MTGSide\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.AssemblyInfoInputs.cache
+C:\Users\BGalinas\Desktop\Side Projects\MTGSide\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.AssemblyInfo.cs
+C:\Users\BGalinas\Desktop\Side Projects\MTGSide\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.dll
+C:\Users\BGalinas\Desktop\Side Projects\MTGSide\GalinasSideProject2.0\obj\Debug\netcoreapp2.2\GalinasSideProject2.0.pdb

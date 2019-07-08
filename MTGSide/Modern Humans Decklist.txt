@@ -1,0 +1,60 @@
+Champion of the Parish|One White|1|false
+Champion of the Parish|One White|1|false
+Champion of the Parish|One White|1|false
+Champion of the Parish|One White|1|false
+Mantis Rider |One White, One Red, One Blue|3|false
+Mantis Rider |One White, One Red, One Blue|3|false
+Mantis Rider |One White, One Red, One Blue|3|false
+Mantis Rider |One White, One Red, One Blue|3|false
+Medling Mage|One White, One Blue|2|false
+Medling Mage|One White, One Blue|2|false
+Medling Mage|One White, One Blue|2|false
+Medling Mage|One White, One Blue|2|false
+Noble Hierarch|One Green|0|false
+Noble Hierarch|One Green|0|false
+Noble Hierarch|One Green|0|false
+Noble Hierarch|One Green|0|false
+Phantasmal Image|One Generic, One Blue|0|false
+Phantasmal Image|One Generic, One Blue|0|false
+Phantasmal Image|One Generic, One Blue|0|false
+Phantasmal Image|One Generic, One Blue|0|false
+Ranger Captain of Eos|One Generic, Two White|3|false
+Ranger Captain of Eos|One Generic, Two White|3|false
+Ranger Captain of Eos|One Generic, Two White|3|false
+Reflector Mage|One Generic, One Blue, One White|2|false
+Reflector Mage|One Generic, One Blue, One White|2|false
+Reflector Mage|One Generic, One Blue, One White|2|false
+Reflector Mage|One Generic, One Blue, One White|2|false
+Thalia's Lieutenant|One Generic, One White|1|false
+Thalia's Lieutenant|One Generic, One White|1|false
+Thalia's Lieutenant|One Generic, One White|1|false
+Thalia's Lieutenant|One Generic, One White|1|false
+Thraben Inspector|One White|1|false
+Thraben Inspector|One White|1|false
+Thalia, Guardian of Thraben|One Generic, One White|2|false
+Thalia, Guardian of Thraben|One Generic, One White|2|false
+Thalia, Guardian of Thraben|One Generic, One White|2|false
+Thalia, Guardian of Thraben|One Generic, One White|2|false
+Aether Vial|One Generic|0|false
+Aether Vial|One Generic|0|false
+Aether Vial|One Generic|0|false
+Plains|N/A|0|true
+Ancient Ziggurat|N/A|0|true
+Ancient Ziggurat|N/A|0|true
+Ancient Ziggurat|N/A|0|true
+Ancient Ziggurat|N/A|0|true
+Cavern of Souls|N/A|0|true
+Cavern of Souls|N/A|0|true
+Cavern of Souls|N/A|0|true
+Cavern of Souls|N/A|0|true
+Horizon Canopy|N/A|0|true
+Horizon Canopy|N/A|0|true
+Horizon Canopy|N/A|0|true
+Horizon Canopy|N/A|0|true
+Seachrome Coast|N/A|0|true
+Sunbaked Canyon|N/A|0|true
+Unclaimed Territory|N/A|0|true
+Unclaimed Territory|N/A|0|true
+Unclaimed Territory|N/A|0|true
+Unclaimed Territory|N/A|0|true
+Waterlogged Grove|N/A|0|true
