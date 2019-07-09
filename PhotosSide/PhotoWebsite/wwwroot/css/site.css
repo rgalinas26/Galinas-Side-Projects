@@ -85,7 +85,7 @@ body {
     margin-right: 20px;
 }
 #advert-image {
-    align-self: flex-end;
+    align-self: baseline;
     width: 20%;
     object-fit: cover;
     margin-top: 10px;
