@@ -10,15 +10,21 @@
     <p>@Model.Description</p>
     @if (Model.IsBird == true)
     {
-        <img id="advert-image" src="~/images/NikonBinocs.jpg" />
+        <a href="https://www.amazon.com/gp/product/B0001EFIGG?ie=UTF8&tag=birdwatchin06-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0001EFIGG">
+            <img id="advert-image" src="~/images/NikonBinocs.jpg" />
+        </a>
     }
     else if (Model.IsCVNP == true)
     {
-        <img id="advert-image" src="~/images/CVNP.jfif" />
+        <a href="https://www.clevelandmetroparks.com/">
+            <img id="advert-image" src="~/images/CVNP.jfif" />
+        </a>
     }
     else
     {
-        <img id="advert-image" src="~/images/Petitti.jfif" />
+        <a href="https://www.petittigardencenter.com/">
+            <img id="advert-image" src="~/images/Petitti.jfif" />
+        </a>
     }
 
 
