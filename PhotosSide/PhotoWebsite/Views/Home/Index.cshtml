@@ -1,4 +1,4 @@
-﻿@model IList<Photo>
+﻿@model PhotoVM
 @{
     ViewData["Title"] = "Home Page";
 }
@@ -10,7 +10,7 @@
     <div class="main-content">
         <div id="grid">
 
-            @foreach (Photo photo in Model)
+            @foreach (Photo photo in Model.DetailPagePhotoList)
             {
                 <div class="tile">
                     <a class="photo-image" asp-controller="Home" asp-action="Details" asp-route-id="@photo.Id">
@@ -21,3 +21,38 @@
         </div>
     </div>
 </div>
+
+
+@if (Model.CVNPBoolCount > 1 && Model.CVNPBoolCount > Model.BirdBoolCount && Model.CVNPBoolCount > Model.PlantBoolCount)
+{
+    <footer>
+        <a href="https://www.clevelandmetroparks.com/">
+            <img src="~/images/transluscent-TF-logo.png" />
+        </a>
+    </footer>
+}
+else if (Model.BirdBoolCount > 1 && Model.BirdBoolCount > Model.CVNPBoolCount && Model.BirdBoolCount > Model.PlantBoolCount)
+{
+    <footer>
+        <a href="https://www.wbu.com/">
+            <img src="~/images/birdfooterad.jpg" />
+        </a>
+    </footer>
+}
+else if (Model.PlantBoolCount > 1 && Model.PlantBoolCount > Model.CVNPBoolCount && Model.PlantBoolCount > Model.BirdBoolCount)
+{
+    <footer>
+        <a href="https://www.youtube.com/watch?v=9AbxYXYzZVc">
+            <img src="~/images/botanicalgardenadvert.jpg" />
+        </a>
+    </footer>
+}
+else
+{
+    <footer>
+        <a href="https://global.canon/en/ad/eosrsystem/index.html">
+            <img src="~/images/canonadvertimage.jpg" />
+        </a>
+    </footer>
+}
+

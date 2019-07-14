@@ -90,3 +90,9 @@ body {
     object-fit: cover;
     margin-top: 10px;
 }
+footer>a>img{
+    width: 35%;
+    padding-top:10px;
+    border: 5px;
+    border-color:black;
+}

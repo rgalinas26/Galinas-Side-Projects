@@ -21,7 +21,9 @@ namespace PhotoWebsite.Controllers
         {
             PhotoVM photoVM = new PhotoVM();
             photoVM.DetailPagePhotoList = photoDAO.GetAllPhotos();
-
+            photoVM.BirdBoolCount = GetBirdCountFromSession();
+            photoVM.CVNPBoolCount = GetCVNPCountFromSession();
+            photoVM.PlantBoolCount = GetPlantCountFromSession();
             return View(photoVM);
             //IList<Photo> photos = photoDAO.GetAllPhotos();
             //return View(photos);
@@ -29,12 +31,24 @@ namespace PhotoWebsite.Controllers
         public IActionResult Details(int id)
         {
             Photo photo = photoDAO.GetPhotoById(id);
+            if(photo.IsBird == true)
+            {
+                SetBirdCountInSession();
+            }
+            else if(photo.IsCVNP == true)
+            {
+                SetCVNPCountInSession();
+            }
+            else if(photo.IsPlant == true)
+            {
+                SetPlantCountInSession();
+            }
             return View(photo);
 
         }
 
 
-
+        #region Get/Set Session helper methods
         private int? GetBirdCountFromSession()
         {
             int? newBirdCount = HttpContext.Session.GetInt32("BirdCount");
@@ -68,26 +82,26 @@ namespace PhotoWebsite.Controllers
             }
             return newPlantCount;
         }
-        private void SetCountsInSession(string unit)
+        private void SetBirdCountInSession()
         {
-            if (unit == "F")
-            {
-                HttpContext.Session.SetString("TempUnit", "C");
-            }
-            else
-            {
-                HttpContext.Session.SetString("TempUnit", "F");
-            }
+            int? birdSessionCount = GetBirdCountFromSession();
+            birdSessionCount++;
+            HttpContext.Session.SetInt32("BirdCount", (int)birdSessionCount);
         }
-
-
-
-
-
-
-
-
-
+        private void SetCVNPCountInSession()
+        {
+            int? CVNPSessionCount = GetCVNPCountFromSession();
+            CVNPSessionCount++;
+            HttpContext.Session.SetInt32("CVNPCount", (int)CVNPSessionCount);
+        }
+        private void SetPlantCountInSession()
+        {
+            int? plantSessionCount = GetPlantCountFromSession();
+            plantSessionCount++;
+            HttpContext.Session.SetInt32("PlantCount", (int)plantSessionCount);
+        }
+        #endregion
+        #region Default IActions from ASP.NET Framework (Privacy, Error)
         public IActionResult Privacy()
         {
             return View();
@@ -98,5 +112,6 @@ namespace PhotoWebsite.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+        #endregion
     }
 }

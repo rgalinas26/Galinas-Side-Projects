@@ -13,6 +13,6 @@ namespace PhotoWebsite.Models
         public string Description { get; set; }
         public bool IsBird { get; set; }
         public bool IsCVNP { get; set; }
-        public bool IsFlower { get; set; }
+        public bool IsPlant { get; set; }
     }
 }

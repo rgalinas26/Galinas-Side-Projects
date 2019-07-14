@@ -7,9 +7,9 @@ namespace PhotoWebsite.Models
 {
     public class PhotoVM
     {
-        public int BirdBoolCount { get; set; }
-        public int CVNPBoolCount { get; set; }
-        public int PlantBoolCount { get; set; }
+        public int? BirdBoolCount { get; set; }
+        public int? CVNPBoolCount { get; set; }
+        public int? PlantBoolCount { get; set; }
         public IList<Photo> DetailPagePhotoList { get; set; }
     }
 }

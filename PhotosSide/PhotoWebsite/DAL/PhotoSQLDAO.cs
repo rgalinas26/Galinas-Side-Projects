@@ -85,7 +85,7 @@ namespace PhotoWebsite.DAL
             photo.Description = Convert.ToString(reader["description"]);
             photo.IsBird = Convert.ToBoolean(reader["isBird"]);
             photo.IsCVNP = Convert.ToBoolean(reader["isCVNP"]);
-            photo.IsFlower = Convert.ToBoolean(reader["isFlower"]);
+            photo.IsPlant = Convert.ToBoolean(reader["isFlower"]);
             return photo;
         }
 
