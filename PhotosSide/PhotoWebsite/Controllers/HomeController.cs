@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using PhotoWebsite.DAL;
 using PhotoWebsite.Models;
@@ -18,8 +19,12 @@ namespace PhotoWebsite.Controllers
         }
         public IActionResult Index()
         {
-            IList<Photo> photos = photoDAO.GetAllPhotos();
-            return View(photos);
+            PhotoVM photoVM = new PhotoVM();
+            photoVM.DetailPagePhotoList = photoDAO.GetAllPhotos();
+
+            return View(photoVM);
+            //IList<Photo> photos = photoDAO.GetAllPhotos();
+            //return View(photos);
         }
         public IActionResult Details(int id)
         {
@@ -27,6 +32,61 @@ namespace PhotoWebsite.Controllers
             return View(photo);
 
         }
+
+
+
+        private int? GetBirdCountFromSession()
+        {
+            int? newBirdCount = HttpContext.Session.GetInt32("BirdCount");
+            
+            if (newBirdCount == null)
+            {
+                newBirdCount = 0;
+                HttpContext.Session.SetInt32("BirdCount", 0);
+            }
+            return newBirdCount;
+        }
+        private int? GetCVNPCountFromSession()
+        {
+            int? newCVNPCount = HttpContext.Session.GetInt32("CVNPCount");
+
+            if (newCVNPCount == null)
+            {
+                newCVNPCount = 0;
+                HttpContext.Session.SetInt32("CVNPCount", 0);
+            }
+            return newCVNPCount;
+        }
+        private int? GetPlantCountFromSession()
+        {
+            int? newPlantCount = HttpContext.Session.GetInt32("PlantCount");
+
+            if (newPlantCount == null)
+            {
+                newPlantCount = 0;
+                HttpContext.Session.SetInt32("PlantCount", 0);
+            }
+            return newPlantCount;
+        }
+        private void SetCountsInSession(string unit)
+        {
+            if (unit == "F")
+            {
+                HttpContext.Session.SetString("TempUnit", "C");
+            }
+            else
+            {
+                HttpContext.Session.SetString("TempUnit", "F");
+            }
+        }
+
+
+
+
+
+
+
+
 
         public IActionResult Privacy()
         {

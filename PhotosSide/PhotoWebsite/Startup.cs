@@ -37,7 +37,7 @@ namespace PhotoWebsite
             {
                 // Sets session expiration to 20 minuates
                 options.IdleTimeout = TimeSpan.FromMinutes(60);
-                options.Cookie.HttpOnly = true;
+                options.Cookie.HttpOnly = false;
             });
 
 
@@ -63,6 +63,7 @@ namespace PhotoWebsite
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseCookiePolicy();
+            app.UseSession();
 
             app.UseMvc(routes =>
             {
