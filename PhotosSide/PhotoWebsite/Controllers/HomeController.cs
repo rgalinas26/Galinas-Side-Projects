@@ -10,8 +10,10 @@ using PhotoWebsite.Models;
 
 namespace PhotoWebsite.Controllers
 {
+    [ResponseCache(CacheProfileName = "Default5")]
     public class HomeController : Controller
     {
+        //REMEMBER TO DEAL WITH THE NO CACHE ISSUE. REFERENCE RYVER MESSAGE WITH MIKE
         private IPhotoDAO photoDAO;
         public HomeController(IPhotoDAO photoDAO)
         {
