@@ -38,6 +38,7 @@ body {
     grid-template-rows: auto 1fr;
     margin: 0;
     min-height: 100vh;
+    background-color: #352150;
 }
 
 #grid {
@@ -49,8 +50,7 @@ body {
 }
 .tile {
     padding: 5px;
-    border: 1px solid #ccc;
-    border-radius: 3px;
+    border: 5px ridge #efc61e;
     box-shadow: -2px -2px 7.5px 0px rgba(68, 68, 68, 0.4);
 }
 .tile a.photo-image {
@@ -72,23 +72,24 @@ body {
 #photo-detail{
     display:flex;
 }
-/*#photo-detail img{
-    align-self: flex-start;
-    width: 50%;
-    object-fit: cover;
-    margin-right: 20px;
-}*/
 #photo-image {
     align-self: flex-start;
     width: 700px;
     object-fit: cover;
     margin-right: 20px;
+    border: 10px #efc61e;
+    border-style: ridge;
 }
 #advert-image {
     align-self: baseline;
     width: 150px;
     object-fit: cover;
     margin-top: 10px;
+    margin-left:15px;
+    border: 5px;
+    border-style: ridge;
+    border-color: #efc61e;
+    border-radius: 10px;    
 }
 footer>a>img{
     width: 35%;
@@ -96,3 +97,7 @@ footer>a>img{
     border: 5px;
     border-color:black;
 }
+.goldenrod {
+    color: #efc61e
+}
+
