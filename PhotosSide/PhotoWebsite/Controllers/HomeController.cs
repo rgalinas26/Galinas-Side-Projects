@@ -10,7 +10,6 @@ using PhotoWebsite.Models;
 
 namespace PhotoWebsite.Controllers
 {
-    [ResponseCache(CacheProfileName = "Default5")]
     public class HomeController : Controller
     {
         //REMEMBER TO DEAL WITH THE NO CACHE ISSUE. REFERENCE RYVER MESSAGE WITH MIKE
@@ -19,8 +18,11 @@ namespace PhotoWebsite.Controllers
         {
             this.photoDAO = photoDAO;
         }
+        [ResponseCache (NoStore = true, Location = ResponseCacheLocation.None)]
         public IActionResult Index()
         {
+
+
             PhotoVM photoVM = new PhotoVM();
             photoVM.DetailPagePhotoList = photoDAO.GetAllPhotos();
             photoVM.BirdBoolCount = GetBirdCountFromSession();
