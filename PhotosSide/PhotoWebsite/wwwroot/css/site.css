@@ -88,14 +88,14 @@ body {
     margin-left:15px;
     border: 5px;
     border-style: ridge;
-    border-color: #efc61e;
+    border-color: #575962;
     border-radius: 10px;    
 }
-footer>a>img{
+footer > a > img {
     width: 35%;
-    padding-top:10px;
-    border: 5px;
-    border-color:black;
+    border: 5px ridge;
+    border-color: #575962;
+    margin-top: 10px;
 }
 .goldenrod {
     color: #efc61e
